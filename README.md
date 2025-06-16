@@ -32,5 +32,3 @@ A simple web-based tool that lets users upload an image containing text or table
 | Excel Output | `openpyxl`, `pandas`           |
 
 ---
-
-## 🚀 Getting Started
